@@ -18,7 +18,7 @@ a bounds-checked PE parser in C11, and studying for Security+.
 
 **Languages:** C, C#, Java, SQL, Python (scripting and tooling)
 **Analysis:** PE structure, static triage, YARA, Sigma, dnSpy/ILSpy,
-Ghidra, x64dbg, PEStudio, capa
+IDA Pro, x64dbg, PEStudio, capa
 **Environment:** FLARE-VM, REMnux, Splunk, Git, CMake, Linux
 
 ## Elsewhere
